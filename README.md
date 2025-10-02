@@ -1,0 +1,1 @@
+This project is a simple recipe website that showcases different dishes using HTML for structure and inline CSS for styling. By completing it, I will have demonstrated essential web development skills such as creating well-structured webpages, applying basic styling, and organizing content in a clear and accessible way.
